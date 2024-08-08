@@ -1,0 +1,20 @@
+##### 淘宝扫码
+`taobao://tb.cn/n/scancode`
+##### 云闪付扫码
+upwallet://native/scanCode
+##### 云闪付付款
+upwallet://pay
+##### 云闪付乘车码
+upwallet://rn/rnshcarcode
+##### 微信扫一扫
+weixin://scanqrcode
+##### 微信付款码
+weixin://widget/pay
+##### 微信乘车码
+weixin://dl/business/?t=45spe7PrNVv
+##### 支付宝扫一扫
+alipay://platformapi/startapp?appId=10000007
+##### 支付宝付款码
+alipay://platformapi/startapp?appId=20000056
+##### 支付宝乘车码
+alipay://platformapi/startapp?appId=200011235
